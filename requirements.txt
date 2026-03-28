@@ -1,0 +1,4 @@
+openai - para usar Whisper e ChatGPT
+gtts - para converter texto em voz
+sounddevice - para gravar áudio localmente (se não tiver Colab)
+scipy - para salvar o aúdio em formato WAV
