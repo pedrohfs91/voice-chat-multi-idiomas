@@ -18,7 +18,6 @@ A aplicação permite que o usuário fale, tenha sua fala transcrita e traduzida
 1. Clone este repositório ou baixe o arquivo `.ipynb`.
 2. Abra o notebook no **Google Colab**.
 3. Instale as dependências necessárias (já listadas no início do notebook).
-   ```bash
 4. Execute as células na ordem:
 -  Gravação de áudio
 -  Transcrição com Whisper
