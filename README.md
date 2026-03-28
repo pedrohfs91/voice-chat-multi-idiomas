@@ -1,5 +1,10 @@
 # Conversas Multi-Idiomas por Voz 🎤💬
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![OpenAI](https://img.shields.io/badge/OpenAI-Whisper-green)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-API-orange)
+![gTTS](https://img.shields.io/badge/gTTS-Text--to--Speech-yellow)
+
 Este projeto demonstra como integrar **Whisper**, **ChatGPT** e **gTTS** para criar um sistema de conversas por voz em múltiplos idiomas.  
 A aplicação permite que o usuário fale, tenha sua fala transcrita e traduzida pelo Whisper, receba uma resposta gerada pelo ChatGPT e, por fim, ouça essa resposta em áudio com o gTTS.
 
